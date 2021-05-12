@@ -1,0 +1,6 @@
+shailaja 
+
+here i created a directory called shailudirectory and created 
+this file called abcd.text
+
+ 
